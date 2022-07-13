@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="92.573997mm"
+   height="76.707001mm"
+   viewBox="0 0 92.573997 76.707001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="sewer_rat.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4912879"
+     inkscape:cx="-51.633223"
+     inkscape:cy="152.88799"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="16.093472"
+       y="10.728981"
+       width="353.5567"
+       height="407.32202"
+       id="rect63" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-4.2984456,-3.3229793)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,1.5967742,1.4193548)"
+       id="text61"
+       style="white-space:pre;shape-inside:url(#rect63);display:inline;fill:#000000"><tspan
+         x="16.09375"
+         y="21.676479"
+         id="tspan836">UNIT NAME: Sewer Rat
+</tspan><tspan
+         x="16.09375"
+         y="36.676479"
+         id="tspan838">UNUT TYPE: Defender
+</tspan><tspan
+         x="16.09375"
+         y="51.676479"
+         id="tspan840">UNIT COST: 3
+</tspan><tspan
+         x="16.09375"
+         y="66.676479"
+         id="tspan842">UNIT KEYWORDS: [ANIMAL] [SEWERS] [VERMIN]
+</tspan><tspan
+         x="16.09375"
+         y="81.676479"
+         id="tspan844">OFFENSE KEYWORDS: [ANIMAL] [TEETH]
+</tspan><tspan
+         x="16.09375"
+         y="96.676479"
+         id="tspan846">DEFENSE KEYWORDS: [ANIMAL]
+</tspan><tspan
+         x="16.09375"
+         y="111.67648"
+         id="tspan848">Dexterity: 1  Strength: 1
+</tspan><tspan
+         x="16.09375"
+         y="126.67648"
+         id="tspan850">Agility: 1  Constitution: 3
+</tspan><tspan
+         x="16.09375"
+         y="141.67648"
+         id="tspan852">ABILITY NAME: Rat Swarm
+</tspan><tspan
+         x="16.09375"
+         y="156.67648"
+         id="tspan854">ABILITY DESCRIPTION:
+</tspan><tspan
+         x="16.09375"
+         y="171.67648"
+         id="tspan856">When this unit makes an attack or defense roll, add +1
+</tspan><tspan
+         x="16.09375"
+         y="186.67648"
+         id="tspan858">to the result for each other VERMIN unit on its field.
+</tspan><tspan
+         x="16.09375"
+         y="201.67648"
+         id="tspan860">
+</tspan><tspan
+         x="16.09375"
+         y="216.67648"
+         id="tspan862">
+</tspan><tspan
+         x="16.09375"
+         y="231.67648"
+         id="tspan864">
+</tspan><tspan
+         x="16.09375"
+         y="246.67648"
+         id="tspan866">
+</tspan><tspan
+         x="16.09375"
+         y="261.67648"
+         id="tspan868">
+</tspan><tspan
+         x="16.09375"
+         y="276.67648"
+         id="tspan870">
+</tspan><tspan
+         x="16.09375"
+         y="291.67648"
+         id="tspan872">
+</tspan><tspan
+         x="16.09375"
+         y="306.67648"
+         id="tspan874">
+</tspan></text>
+  </g>
+</svg>

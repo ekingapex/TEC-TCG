@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.4912879"
-     inkscape:cx="-52.303785"
-     inkscape:cy="152.88799"
+     inkscape:cx="-52.303784"
+     inkscape:cy="152.88798"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -49,68 +49,68 @@
      transform="translate(-4.2984456,-3.3229793)">
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,1.5967742,1.4193548)"
+       transform="matrix(0.21398758,0,0,0.26458333,2.4294301,1.4193548)"
        id="text61"
        style="white-space:pre;shape-inside:url(#rect63);display:inline;fill:#000000"><tspan
          x="16.09375"
          y="21.676479"
-         id="tspan1691">Low Frame
+         id="tspan2679">Low Frame
 </tspan><tspan
          x="16.09375"
          y="36.676479"
-         id="tspan1693">Offense: -1
+         id="tspan2681">Offense: -1
 </tspan><tspan
          x="16.09375"
          y="51.676479"
-         id="tspan1695">Defense: +2
+         id="tspan2683">Defense: +2
 </tspan><tspan
          x="16.09375"
          y="66.676479"
-         id="tspan1697">Maneuver Type: Defense
+         id="tspan2685">Maneuver Type: Defense
 </tspan><tspan
          x="16.09375"
          y="81.676479"
-         id="tspan1699">Maneuver Description:
+         id="tspan2687">Maneuver Description:
 </tspan><tspan
          x="16.09375"
          y="96.676479"
-         id="tspan1701">when a SMALL unit makes a defense roll, add +2 to
+         id="tspan2689">when a SMALL unit makes a defense roll, add +2 to
 </tspan><tspan
          x="16.09375"
          y="111.67648"
-         id="tspan1703">the result
+         id="tspan2691">the result
 </tspan><tspan
          x="16.09375"
          y="126.67648"
-         id="tspan1705">
+         id="tspan2693">
 </tspan><tspan
          x="16.09375"
          y="141.67648"
-         id="tspan1707">
+         id="tspan2695">
 </tspan><tspan
          x="16.09375"
          y="156.67648"
-         id="tspan1709">
+         id="tspan2697">
 </tspan><tspan
          x="16.09375"
          y="171.67648"
-         id="tspan1711">
+         id="tspan2699">
 </tspan><tspan
          x="16.09375"
          y="186.67648"
-         id="tspan1713">
+         id="tspan2701">
 </tspan><tspan
          x="16.09375"
          y="201.67648"
-         id="tspan1715">
+         id="tspan2703">
 </tspan><tspan
          x="16.09375"
          y="216.67648"
-         id="tspan1717">
+         id="tspan2705">
 </tspan><tspan
          x="16.09375"
          y="231.67648"
-         id="tspan1719">
+         id="tspan2707">
 </tspan></text>
   </g>
 </svg>

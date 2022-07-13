@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.4912879"
-     inkscape:cx="-52.303785"
-     inkscape:cy="152.88799"
+     inkscape:cx="-52.303784"
+     inkscape:cy="152.88798"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -49,72 +49,72 @@
      transform="translate(-4.2984456,-3.3229793)">
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,1.5967742,1.4193548)"
+       transform="matrix(0.20507246,0,0,0.26458333,2.5921866,1.4193548)"
        id="text61"
        style="white-space:pre;shape-inside:url(#rect63);display:inline;fill:#000000"><tspan
          x="16.09375"
          y="21.676479"
-         id="tspan1537">Quick Dodge
+         id="tspan3236">Quick Dodge
 </tspan><tspan
          x="16.09375"
          y="36.676479"
-         id="tspan1539">Offense: -1
+         id="tspan3238">Offense: -1
 </tspan><tspan
          x="16.09375"
          y="51.676479"
-         id="tspan1541">Defense: +2
+         id="tspan3240">Defense: +2
 </tspan><tspan
          x="16.09375"
          y="66.676479"
-         id="tspan1543">Maneuver Type: Defense
+         id="tspan3242">Maneuver Type: Defense
 </tspan><tspan
          x="16.09375"
          y="81.676479"
-         id="tspan1545">Maneuver Description:
+         id="tspan3244">Maneuver Description:
 </tspan><tspan
          x="16.09375"
          y="96.676479"
-         id="tspan1547">units with the DODGE defense keyword add +1 to the
+         id="tspan3246">units with the DODGE defense keyword add +1 to the
 </tspan><tspan
          x="16.09375"
          y="111.67648"
-         id="tspan1549">defense roll result; units with the SWIFT defense
+         id="tspan3248">defense roll result; units with the SWIFT defense
 </tspan><tspan
          x="16.09375"
          y="126.67648"
-         id="tspan1551">keyword add +1 to the defense roll result
+         id="tspan3250">keyword add +1 to the defense roll result
 </tspan><tspan
          x="16.09375"
          y="141.67648"
-         id="tspan1553">
+         id="tspan3252">
 </tspan><tspan
          x="16.09375"
          y="156.67648"
-         id="tspan1555">
+         id="tspan3254">
 </tspan><tspan
          x="16.09375"
          y="171.67648"
-         id="tspan1557">
+         id="tspan3256">
 </tspan><tspan
          x="16.09375"
          y="186.67648"
-         id="tspan1559">
+         id="tspan3258">
 </tspan><tspan
          x="16.09375"
          y="201.67648"
-         id="tspan1561">
+         id="tspan3260">
 </tspan><tspan
          x="16.09375"
          y="216.67648"
-         id="tspan1563">
+         id="tspan3262">
 </tspan><tspan
          x="16.09375"
          y="231.67648"
-         id="tspan1565">
+         id="tspan3264">
 </tspan><tspan
          x="16.09375"
          y="246.67648"
-         id="tspan1567">
+         id="tspan3266">
 </tspan></text>
   </g>
 </svg>

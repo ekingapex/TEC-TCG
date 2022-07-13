@@ -26,7 +26,7 @@
      showgrid="false"
      inkscape:zoom="1.4912879"
      inkscape:cx="-51.633223"
-     inkscape:cy="152.88799"
+     inkscape:cy="152.88798"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -49,88 +49,88 @@
      transform="translate(-4.2984456,-3.3229793)">
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,1.5967742,1.4193548)"
+       transform="matrix(0.19886648,0,0,0.26458333,2.6644163,1.4193548)"
        id="text61"
        style="white-space:pre;shape-inside:url(#rect63);fill:#000000"><tspan
          x="16.09375"
          y="21.676479"
-         id="tspan642">UNIT NAME: Saltwater Snapper
+         id="tspan1311">UNIT NAME: Saltwater Snapper
 </tspan><tspan
          x="16.09375"
          y="36.676479"
-         id="tspan644">UNUT TYPE: Defender
+         id="tspan1313">UNUT TYPE: Defender
 </tspan><tspan
          x="16.09375"
          y="51.676479"
-         id="tspan646">UNIT COST: 2
+         id="tspan1315">UNIT COST: 2
 </tspan><tspan
          x="16.09375"
          y="66.676479"
-         id="tspan648">UNIT KEYWORDS: [ANIMAL] [SIGNALTOWER ISLAND]
+         id="tspan1317">UNIT KEYWORDS: [ANIMAL] [SIGNALTOWER ISLAND]
 </tspan><tspan
          x="16.09375"
          y="81.676479"
-         id="tspan650">OFFENSE KEYWORDS: [ANIMAL] [BEAK]
+         id="tspan1319">OFFENSE KEYWORDS: [ANIMAL] [BEAK]
 </tspan><tspan
          x="16.09375"
          y="96.676479"
-         id="tspan652">DEFENSE KEYWORDS: [ANIMAL] [SHELL]
+         id="tspan1321">DEFENSE KEYWORDS: [ANIMAL] [SHELL]
 </tspan><tspan
          x="16.09375"
          y="111.67648"
-         id="tspan654">Dexterity: 0  Strength: 1
+         id="tspan1323">Dexterity: 0  Strength: 1
 </tspan><tspan
          x="16.09375"
          y="126.67648"
-         id="tspan656">Agility: 0  Constitution: 4
+         id="tspan1325">Agility: 0  Constitution: 4
 </tspan><tspan
          x="16.09375"
          y="141.67648"
-         id="tspan658">ABILITY NAME: Turtle Shell
+         id="tspan1327">ABILITY NAME: Turtle Shell
 </tspan><tspan
          x="16.09375"
          y="156.67648"
-         id="tspan660">ABILITY DESCRIPTION:
+         id="tspan1329">ABILITY DESCRIPTION:
 </tspan><tspan
          x="16.09375"
          y="171.67648"
-         id="tspan662">When this unit rolls a critical defense roll, damage from
+         id="tspan1331">When this unit rolls a critical defense roll, damage from
 </tspan><tspan
          x="16.09375"
          y="186.67648"
-         id="tspan664">the attack is reduced by 5, to a minimum of 0.
+         id="tspan1333">the attack is reduced by 5, to a minimum of 0.
 </tspan><tspan
          x="16.09375"
          y="201.67648"
-         id="tspan666">
+         id="tspan1335">
 </tspan><tspan
          x="16.09375"
          y="216.67648"
-         id="tspan668">
+         id="tspan1337">
 </tspan><tspan
          x="16.09375"
          y="231.67648"
-         id="tspan670">
+         id="tspan1339">
 </tspan><tspan
          x="16.09375"
          y="246.67648"
-         id="tspan672">
+         id="tspan1341">
 </tspan><tspan
          x="16.09375"
          y="261.67648"
-         id="tspan674">
+         id="tspan1343">
 </tspan><tspan
          x="16.09375"
          y="276.67648"
-         id="tspan676">
+         id="tspan1345">
 </tspan><tspan
          x="16.09375"
          y="291.67648"
-         id="tspan678">
+         id="tspan1347">
 </tspan><tspan
          x="16.09375"
          y="306.67648"
-         id="tspan680">
+         id="tspan1349">
 </tspan></text>
   </g>
 </svg>

@@ -26,7 +26,7 @@
      showgrid="false"
      inkscape:zoom="1.4912879"
      inkscape:cx="-51.633223"
-     inkscape:cy="152.88799"
+     inkscape:cy="152.88798"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -49,88 +49,88 @@
      transform="translate(-4.2984456,-3.3229793)">
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,1.5967742,1.4193548)"
+       transform="matrix(0.20429684,0,0,0.26458333,2.5670099,1.4193548)"
        id="text61"
        style="white-space:pre;shape-inside:url(#rect63);display:inline;fill:#000000"><tspan
          x="16.09375"
          y="21.676479"
-         id="tspan789">UNIT NAME: Fluvitur Pup
+         id="tspan936">UNIT NAME: Fluvitur Pup
 </tspan><tspan
          x="16.09375"
          y="36.676479"
-         id="tspan791">UNUT TYPE: Minion
+         id="tspan938">UNUT TYPE: Minion
 </tspan><tspan
          x="16.09375"
          y="51.676479"
-         id="tspan793">UNIT COST: 1
+         id="tspan940">UNIT COST: 1
 </tspan><tspan
          x="16.09375"
          y="66.676479"
-         id="tspan795">UNIT KEYWORDS: [ANIMAL] [SIGNALTOWER ISLAND]
+         id="tspan942">UNIT KEYWORDS: [ANIMAL] [SIGNALTOWER ISLAND]
 </tspan><tspan
          x="16.09375"
          y="81.676479"
-         id="tspan797">                           [VERMIN]
+         id="tspan944">                           [VERMIN]
 </tspan><tspan
          x="16.09375"
          y="96.676479"
-         id="tspan799">OFFENSE KEYWORDS: [ANIMAL] [TEETH]
+         id="tspan946">OFFENSE KEYWORDS: [ANIMAL] [TEETH]
 </tspan><tspan
          x="16.09375"
          y="111.67648"
-         id="tspan801">DEFENSE KEYWORDS: [ANIMAL] [SMALL]
+         id="tspan948">DEFENSE KEYWORDS: [ANIMAL] [SMALL]
 </tspan><tspan
          x="16.09375"
          y="126.67648"
-         id="tspan803">Dexterity: 1  Strength: 1
+         id="tspan950">Dexterity: 1  Strength: 1
 </tspan><tspan
          x="16.09375"
          y="141.67648"
-         id="tspan805">Agility: 0  Constitution: 1
+         id="tspan952">Agility: 0  Constitution: 1
 </tspan><tspan
          x="16.09375"
          y="156.67648"
-         id="tspan807">ABILITY NAME: N/A
+         id="tspan954">ABILITY NAME: N/A
 </tspan><tspan
          x="16.09375"
          y="171.67648"
-         id="tspan809">ABILITY DESCRIPTION:
+         id="tspan956">ABILITY DESCRIPTION:
 </tspan><tspan
          x="16.09375"
          y="186.67648"
-         id="tspan811">N/A
+         id="tspan958">N/A
 </tspan><tspan
          x="16.09375"
          y="201.67648"
-         id="tspan813">
+         id="tspan960">
 </tspan><tspan
          x="16.09375"
          y="216.67648"
-         id="tspan815">
+         id="tspan962">
 </tspan><tspan
          x="16.09375"
          y="231.67648"
-         id="tspan817">
+         id="tspan964">
 </tspan><tspan
          x="16.09375"
          y="246.67648"
-         id="tspan819">
+         id="tspan966">
 </tspan><tspan
          x="16.09375"
          y="261.67648"
-         id="tspan821">
+         id="tspan968">
 </tspan><tspan
          x="16.09375"
          y="276.67648"
-         id="tspan823">
+         id="tspan970">
 </tspan><tspan
          x="16.09375"
          y="291.67648"
-         id="tspan825">
+         id="tspan972">
 </tspan><tspan
          x="16.09375"
          y="306.67648"
-         id="tspan827">
+         id="tspan974">
 </tspan></text>
   </g>
 </svg>

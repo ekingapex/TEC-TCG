@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.4912879"
-     inkscape:cx="-52.303785"
-     inkscape:cy="152.88799"
+     inkscape:cx="-52.303784"
+     inkscape:cy="152.88798"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -49,72 +49,72 @@
      transform="translate(-4.2984456,-3.3229793)">
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,1.5967742,1.4193548)"
+       transform="matrix(0.20246862,0,0,0.26458333,2.6189979,1.4193548)"
        id="text61"
        style="white-space:pre;shape-inside:url(#rect63);display:inline;fill:#000000"><tspan
          x="16.09375"
          y="21.676479"
-         id="tspan1155">Sharp Claws
+         id="tspan3646">Sharp Claws
 </tspan><tspan
          x="16.09375"
          y="36.676479"
-         id="tspan1157">Offense: +1
+         id="tspan3648">Offense: +1
 </tspan><tspan
          x="16.09375"
          y="51.676479"
-         id="tspan1159">Defense: +0
+         id="tspan3650">Defense: +0
 </tspan><tspan
          x="16.09375"
          y="66.676479"
-         id="tspan1161">Maneuver Type: Offense
+         id="tspan3652">Maneuver Type: Offense
 </tspan><tspan
          x="16.09375"
          y="81.676479"
-         id="tspan1163">Maneuver Description:
+         id="tspan3654">Maneuver Description:
 </tspan><tspan
          x="16.09375"
          y="96.676479"
-         id="tspan1165">when a unit with CLAWS attacks, add an additional +1
+         id="tspan3656">when a unit with CLAWS attacks, add an additional +1
 </tspan><tspan
          x="16.09375"
          y="111.67648"
-         id="tspan1167">to the results and the unit has +1 STRENGTH on this
+         id="tspan3658">to the results and the unit has +1 STRENGTH on this
 </tspan><tspan
          x="16.09375"
          y="126.67648"
-         id="tspan1169">attack
+         id="tspan3660">attack
 </tspan><tspan
          x="16.09375"
          y="141.67648"
-         id="tspan1171">
+         id="tspan3662">
 </tspan><tspan
          x="16.09375"
          y="156.67648"
-         id="tspan1173">
+         id="tspan3664">
 </tspan><tspan
          x="16.09375"
          y="171.67648"
-         id="tspan1175">
+         id="tspan3666">
 </tspan><tspan
          x="16.09375"
          y="186.67648"
-         id="tspan1177">
+         id="tspan3668">
 </tspan><tspan
          x="16.09375"
          y="201.67648"
-         id="tspan1179">
+         id="tspan3670">
 </tspan><tspan
          x="16.09375"
          y="216.67648"
-         id="tspan1181">
+         id="tspan3672">
 </tspan><tspan
          x="16.09375"
          y="231.67648"
-         id="tspan1183">
+         id="tspan3674">
 </tspan><tspan
          x="16.09375"
          y="246.67648"
-         id="tspan1185">
+         id="tspan3676">
 </tspan></text>
   </g>
 </svg>

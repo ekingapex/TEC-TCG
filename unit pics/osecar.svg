@@ -49,88 +49,88 @@
      transform="translate(-4.2984456,-3.3229793)">
     <text
        xml:space="preserve"
-       transform="matrix(0.2108177,0,0,0.26458333,2.4702556,1.4193548)"
+       transform="matrix(0.18819287,0,0,0.26458333,2.8378208,1.4193548)"
        id="text61"
        style="white-space:pre;shape-inside:url(#rect63);display:inline;fill:#000000"><tspan
          x="16.09375"
          y="21.676479"
-         id="tspan1186">UNIT NAME: Osecar
+         id="tspan426">UNIT NAME: Osecar
 </tspan><tspan
          x="16.09375"
          y="36.676479"
-         id="tspan1188">UNUT TYPE: Defender
+         id="tspan428">UNUT TYPE: Defender
 </tspan><tspan
          x="16.09375"
          y="51.676479"
-         id="tspan1190">UNIT COST: 2
+         id="tspan430">UNIT COST: 2
 </tspan><tspan
          x="16.09375"
          y="66.676479"
-         id="tspan1192">UNIT KEYWORDS: [ANIMAL] [SEWERS] [VERMIN]
+         id="tspan432">UNIT KEYWORDS: [ANIMAL] [SEWERS] [VERMIN]
 </tspan><tspan
          x="16.09375"
          y="81.676479"
-         id="tspan1194">OFFENSE KEYWORDS: [ANIMAL] [TEETH] [CLAWS]
+         id="tspan434">OFFENSE KEYWORDS: [ANIMAL] [TEETH] [CLAWS]
 </tspan><tspan
          x="16.09375"
          y="96.676479"
-         id="tspan1196">DEFENSE KEYWORDS: [ANIMAL]
+         id="tspan436">DEFENSE KEYWORDS: [ANIMAL]
 </tspan><tspan
          x="16.09375"
          y="111.67648"
-         id="tspan1198">Dexterity: 2  Strength: 2
+         id="tspan438">Dexterity: 2  Strength: 2
 </tspan><tspan
          x="16.09375"
          y="126.67648"
-         id="tspan1200">Agility: 0  Constitution: 2
+         id="tspan440">Agility: 0  Constitution: 2
 </tspan><tspan
          x="16.09375"
          y="141.67648"
-         id="tspan1202">ABILITY NAME: Distracting Squeak
+         id="tspan442">ABILITY NAME: Distracting Squeak
 </tspan><tspan
          x="16.09375"
          y="156.67648"
-         id="tspan1204">ABILITY DESCRIPTION:
+         id="tspan444">ABILITY DESCRIPTION:
 </tspan><tspan
          x="16.09375"
          y="171.67648"
-         id="tspan1206">When this unit is on the field, friendly SEWERS units
+         id="tspan446">When this unit is on the field, other friendly SEWERS units
 </tspan><tspan
          x="16.09375"
          y="186.67648"
-         id="tspan1208">add +1 to the result of their defense rolls.
+         id="tspan448">add +1 to the result of their defense rolls.
 </tspan><tspan
          x="16.09375"
          y="201.67648"
-         id="tspan1210">
+         id="tspan450">
 </tspan><tspan
          x="16.09375"
          y="216.67648"
-         id="tspan1212">
+         id="tspan452">
 </tspan><tspan
          x="16.09375"
          y="231.67648"
-         id="tspan1214">
+         id="tspan454">
 </tspan><tspan
          x="16.09375"
          y="246.67648"
-         id="tspan1216">
+         id="tspan456">
 </tspan><tspan
          x="16.09375"
          y="261.67648"
-         id="tspan1218">
+         id="tspan458">
 </tspan><tspan
          x="16.09375"
          y="276.67648"
-         id="tspan1220">
+         id="tspan460">
 </tspan><tspan
          x="16.09375"
          y="291.67648"
-         id="tspan1222">
+         id="tspan462">
 </tspan><tspan
          x="16.09375"
          y="306.67648"
-         id="tspan1224">
+         id="tspan464">
 </tspan></text>
   </g>
 </svg>

@@ -51,95 +51,94 @@
      transform="translate(-5.8549121,-4.7423341)">
     <text
        xml:space="preserve"
-       transform="matrix(0.19777531,0,0,0.26458333,2.6719657,1.4193548)"
+       transform="matrix(0.19218154,0,0,0.26458333,2.7619904,1.4193548)"
        id="text61"
        style="white-space:pre;shape-inside:url(#rect63);display:inline;fill:#000000"><tspan
          x="16.09375"
          y="21.676479"
-         id="tspan634">UNIT NAME: Angry Gull
+         id="tspan297">UNIT NAME: Angry Gull
 </tspan><tspan
          x="16.09375"
          y="36.676479"
-         id="tspan636">UNUT TYPE: Defender
+         id="tspan299">UNUT TYPE: Defender
 </tspan><tspan
          x="16.09375"
          y="51.676479"
-         id="tspan638">UNIT COST: 3
+         id="tspan301">UNIT COST: 3
 </tspan><tspan
          x="16.09375"
          y="66.676479"
-         id="tspan640">UNIT KEYWORDS: [ANIMAL] [SIGNALTOWER ISLAND]
+         id="tspan303">UNIT KEYWORDS: [ANIMAL] [SIGNALTOWER ISLAND]
 </tspan><tspan
          x="16.09375"
          y="81.676479"
-         id="tspan642">                           [FLYING]
+         id="tspan305">                           [FLYING]
 </tspan><tspan
          x="16.09375"
          y="96.676479"
-         id="tspan644">OFFENSE KEYWORDS: [ANIMAL] [BEAK]
+         id="tspan307">OFFENSE KEYWORDS: [ANIMAL] [BEAK]
 </tspan><tspan
          x="16.09375"
          y="111.67648"
-         id="tspan646">DEFENSE KEYWORDS: [ANIMAL] [FLIGHT]
+         id="tspan309">DEFENSE KEYWORDS: [ANIMAL] [FLIGHT]
 </tspan><tspan
          x="16.09375"
          y="126.67648"
-         id="tspan648">Dexterity: 1  Strength: 1
+         id="tspan311">Dexterity: 1  Strength: 1
 </tspan><tspan
          x="16.09375"
          y="141.67648"
-         id="tspan650">Agility: 1  Constitution: 2
+         id="tspan313">Agility: 1  Constitution: 2
 </tspan><tspan
          x="16.09375"
          y="156.67648"
-         id="tspan652">ABILITY NAME: Flyby Peck
+         id="tspan315">ABILITY NAME: Flyby Peck
 </tspan><tspan
          x="16.09375"
          y="171.67648"
-         id="tspan654">ABILITY DESCRIPTION:
+         id="tspan317">ABILITY DESCRIPTION:
 </tspan><tspan
          x="16.09375"
          y="186.67648"
-         id="tspan656">When this unit rolls a critical defense roll, perform a free </tspan><tspan
+         id="tspan319">When this unit rolls a critical defense roll and successfully </tspan><tspan
          x="16.09375"
          y="201.67648"
-         id="tspan658">attack against the attacker using the modifier cards
-</tspan><tspan
+         id="tspan321">defends, perform a free attack against the attacker using </tspan><tspan
          x="16.09375"
          y="216.67648"
-         id="tspan660">flipped for this attack.
+         id="tspan323">the modifier cards flipped for this attack.
 </tspan><tspan
          x="16.09375"
          y="231.67648"
-         id="tspan662">
+         id="tspan325">
 </tspan><tspan
          x="16.09375"
          y="246.67648"
-         id="tspan664">
+         id="tspan327">
 </tspan><tspan
          x="16.09375"
          y="261.67648"
-         id="tspan666">
+         id="tspan329">
 </tspan><tspan
          x="16.09375"
          y="276.67648"
-         id="tspan668">
+         id="tspan331">
 </tspan><tspan
          x="16.09375"
          y="291.67648"
-         id="tspan670">
+         id="tspan333">
 </tspan><tspan
          x="16.09375"
          y="306.67648"
-         id="tspan672">
+         id="tspan335">
 </tspan><tspan
          x="16.09375"
          y="321.67648"
-         id="tspan674">
+         id="tspan337">
 </tspan><tspan
          x="16.09375"
          y="336.67648"
-         id="tspan676">
+         id="tspan339">
 </tspan></text>
   </g>
 </svg>

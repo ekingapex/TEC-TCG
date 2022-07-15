@@ -54,67 +54,67 @@
        style="white-space:pre;shape-inside:url(#rect63);display:inline;fill:#000000"><tspan
          x="16.09375"
          y="21.676479"
-         id="tspan3751">Turtle Up
+         id="tspan1294">Turtle Up
 </tspan><tspan
          x="16.09375"
          y="36.676479"
-         id="tspan3753">Offense: -2
+         id="tspan1296">Offense: -2
 </tspan><tspan
          x="16.09375"
          y="51.676479"
-         id="tspan3755">Defense: +3
+         id="tspan1298">Defense: +2
 </tspan><tspan
          x="16.09375"
          y="66.676479"
-         id="tspan3757">Maneuver Type: Defense
+         id="tspan1300">Maneuver Type: Defense
 </tspan><tspan
          x="16.09375"
          y="81.676479"
-         id="tspan3759">Maneuver Description:
+         id="tspan1302">Maneuver Description:
 </tspan><tspan
          x="16.09375"
          y="96.676479"
-         id="tspan3761">when a unit with a SHELL defends against an attack,
+         id="tspan1304">when a unit with a SHELL defends against an attack,
 </tspan><tspan
          x="16.09375"
          y="111.67648"
-         id="tspan3763">any damage received during damage calculation is
+         id="tspan1306">any damage received during damage calculation is
 </tspan><tspan
          x="16.09375"
          y="126.67648"
-         id="tspan3765">reduced by 6, to a minimum of 0
+         id="tspan1308">reduced by 2, to a minimum of 0
 </tspan><tspan
          x="16.09375"
          y="141.67648"
-         id="tspan3767">
+         id="tspan1310">
 </tspan><tspan
          x="16.09375"
          y="156.67648"
-         id="tspan3769">
+         id="tspan1312">
 </tspan><tspan
          x="16.09375"
          y="171.67648"
-         id="tspan3771">
+         id="tspan1314">
 </tspan><tspan
          x="16.09375"
          y="186.67648"
-         id="tspan3773">
+         id="tspan1316">
 </tspan><tspan
          x="16.09375"
          y="201.67648"
-         id="tspan3775">
+         id="tspan1318">
 </tspan><tspan
          x="16.09375"
          y="216.67648"
-         id="tspan3777">
+         id="tspan1320">
 </tspan><tspan
          x="16.09375"
          y="231.67648"
-         id="tspan3779">
+         id="tspan1322">
 </tspan><tspan
          x="16.09375"
          y="246.67648"
-         id="tspan3781">
+         id="tspan1324">
 </tspan></text>
   </g>
 </svg>

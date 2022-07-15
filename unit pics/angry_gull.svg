@@ -56,89 +56,89 @@
        style="white-space:pre;shape-inside:url(#rect63);display:inline;fill:#000000"><tspan
          x="16.09375"
          y="21.676479"
-         id="tspan297">UNIT NAME: Angry Gull
+         id="tspan264">UNIT NAME: Angry Gull
 </tspan><tspan
          x="16.09375"
          y="36.676479"
-         id="tspan299">UNUT TYPE: Defender
+         id="tspan266">UNUT TYPE: Defender
 </tspan><tspan
          x="16.09375"
          y="51.676479"
-         id="tspan301">UNIT COST: 3
+         id="tspan268">UNIT COST: 3
 </tspan><tspan
          x="16.09375"
          y="66.676479"
-         id="tspan303">UNIT KEYWORDS: [ANIMAL] [SIGNALTOWER ISLAND]
+         id="tspan270">UNIT KEYWORDS: [ANIMAL] [SIGNALTOWER ISLAND]
 </tspan><tspan
          x="16.09375"
          y="81.676479"
-         id="tspan305">                           [FLYING]
+         id="tspan272">                           [FLYING]
 </tspan><tspan
          x="16.09375"
          y="96.676479"
-         id="tspan307">OFFENSE KEYWORDS: [ANIMAL] [BEAK]
+         id="tspan274">OFFENSE KEYWORDS: [ANIMAL] [BEAK]
 </tspan><tspan
          x="16.09375"
          y="111.67648"
-         id="tspan309">DEFENSE KEYWORDS: [ANIMAL] [FLIGHT]
+         id="tspan276">DEFENSE KEYWORDS: [ANIMAL] [FLIGHT]
 </tspan><tspan
          x="16.09375"
          y="126.67648"
-         id="tspan311">Dexterity: 1  Strength: 1
+         id="tspan278">Dexterity: 1  Strength: 1
 </tspan><tspan
          x="16.09375"
          y="141.67648"
-         id="tspan313">Agility: 1  Constitution: 2
+         id="tspan280">Agility: 2  Constitution: 2
 </tspan><tspan
          x="16.09375"
          y="156.67648"
-         id="tspan315">ABILITY NAME: Flyby Peck
+         id="tspan282">ABILITY NAME: Flyby Peck
 </tspan><tspan
          x="16.09375"
          y="171.67648"
-         id="tspan317">ABILITY DESCRIPTION:
+         id="tspan284">ABILITY DESCRIPTION:
 </tspan><tspan
          x="16.09375"
          y="186.67648"
-         id="tspan319">When this unit rolls a critical defense roll and successfully </tspan><tspan
+         id="tspan286">When this unit rolls a critical defense roll and successfully </tspan><tspan
          x="16.09375"
          y="201.67648"
-         id="tspan321">defends, perform a free attack against the attacker using </tspan><tspan
+         id="tspan288">defends, perform a free attack against the attacker using </tspan><tspan
          x="16.09375"
          y="216.67648"
-         id="tspan323">the modifier cards flipped for this attack.
+         id="tspan290">the modifier cards flipped for this attack.
 </tspan><tspan
          x="16.09375"
          y="231.67648"
-         id="tspan325">
+         id="tspan292">
 </tspan><tspan
          x="16.09375"
          y="246.67648"
-         id="tspan327">
+         id="tspan294">
 </tspan><tspan
          x="16.09375"
          y="261.67648"
-         id="tspan329">
+         id="tspan296">
 </tspan><tspan
          x="16.09375"
          y="276.67648"
-         id="tspan331">
+         id="tspan298">
 </tspan><tspan
          x="16.09375"
          y="291.67648"
-         id="tspan333">
+         id="tspan300">
 </tspan><tspan
          x="16.09375"
          y="306.67648"
-         id="tspan335">
+         id="tspan302">
 </tspan><tspan
          x="16.09375"
          y="321.67648"
-         id="tspan337">
+         id="tspan304">
 </tspan><tspan
          x="16.09375"
          y="336.67648"
-         id="tspan339">
+         id="tspan306">
 </tspan></text>
   </g>
 </svg>

@@ -26,7 +26,7 @@
      showgrid="false"
      inkscape:zoom="1.4912879"
      inkscape:cx="-51.633223"
-     inkscape:cy="152.88799"
+     inkscape:cy="152.88798"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -54,79 +54,79 @@
        style="white-space:pre;shape-inside:url(#rect63);display:inline;fill:#000000"><tspan
          x="16.09375"
          y="21.676479"
-         id="tspan977">UNIT NAME: Baby Rat
+         id="tspan515">UNIT NAME: Baby Rat
 </tspan><tspan
          x="16.09375"
          y="36.676479"
-         id="tspan979">UNUT TYPE: Minion
+         id="tspan517">UNUT TYPE: Minion
 </tspan><tspan
          x="16.09375"
          y="51.676479"
-         id="tspan981">UNIT COST: 1
+         id="tspan519">UNIT COST: 1
 </tspan><tspan
          x="16.09375"
          y="66.676479"
-         id="tspan983">UNIT KEYWORDS: [ANIMAL] [VERMIN]
+         id="tspan521">UNIT KEYWORDS: [ANIMAL] [VERMIN]
 </tspan><tspan
          x="16.09375"
          y="81.676479"
-         id="tspan985">OFFENSE KEYWORDS: [ANIMAL] [TEETH]
+         id="tspan523">OFFENSE KEYWORDS: [ANIMAL] [TEETH]
 </tspan><tspan
          x="16.09375"
          y="96.676479"
-         id="tspan987">DEFENSE KEYWORDS: [ANIMAL]
+         id="tspan525">DEFENSE KEYWORDS: [ANIMAL]
 </tspan><tspan
          x="16.09375"
          y="111.67648"
-         id="tspan989">Dexterity: 1  Strength: 0
+         id="tspan527">Dexterity: 0  Strength: 1
 </tspan><tspan
          x="16.09375"
          y="126.67648"
-         id="tspan991">Agility: 1  Constitution: 1
+         id="tspan529">Agility: 1  Constitution: 1
 </tspan><tspan
          x="16.09375"
          y="141.67648"
-         id="tspan993">ABILITY NAME: N/A
+         id="tspan531">ABILITY NAME: N/A
 </tspan><tspan
          x="16.09375"
          y="156.67648"
-         id="tspan995">ABILITY DESCRIPTION:
+         id="tspan533">ABILITY DESCRIPTION:
 </tspan><tspan
          x="16.09375"
          y="171.67648"
-         id="tspan997">N/A
+         id="tspan535">N/A
 </tspan><tspan
          x="16.09375"
          y="186.67648"
-         id="tspan999">
+         id="tspan537">
 </tspan><tspan
          x="16.09375"
          y="201.67648"
-         id="tspan1001">
+         id="tspan539">
 </tspan><tspan
          x="16.09375"
          y="216.67648"
-         id="tspan1003">
+         id="tspan541">
 </tspan><tspan
          x="16.09375"
          y="231.67648"
-         id="tspan1005">
+         id="tspan543">
 </tspan><tspan
          x="16.09375"
          y="246.67648"
-         id="tspan1007">
+         id="tspan545">
 </tspan><tspan
          x="16.09375"
          y="261.67648"
-         id="tspan1009">
+         id="tspan547">
 </tspan><tspan
          x="16.09375"
          y="276.67648"
-         id="tspan1011">
+         id="tspan549">
 </tspan><tspan
          x="16.09375"
          y="291.67648"
-         id="tspan1013">
+         id="tspan551">
 </tspan></text>
   </g>
 </svg>

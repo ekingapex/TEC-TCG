@@ -54,83 +54,83 @@
        style="white-space:pre;shape-inside:url(#rect63);display:inline;fill:#000000"><tspan
          x="16.09375"
          y="21.676479"
-         id="tspan820">UNIT NAME: Sewer Rat
+         id="tspan385">UNIT NAME: Sewer Rat
 </tspan><tspan
          x="16.09375"
          y="36.676479"
-         id="tspan822">UNUT TYPE: Defender
+         id="tspan387">UNUT TYPE: Defender
 </tspan><tspan
          x="16.09375"
          y="51.676479"
-         id="tspan824">UNIT COST: 2
+         id="tspan389">UNIT COST: 2
 </tspan><tspan
          x="16.09375"
          y="66.676479"
-         id="tspan826">UNIT KEYWORDS: [ANIMAL] [SEWERS] [VERMIN]
+         id="tspan391">UNIT KEYWORDS: [ANIMAL] [SEWERS] [VERMIN]
 </tspan><tspan
          x="16.09375"
          y="81.676479"
-         id="tspan828">OFFENSE KEYWORDS: [ANIMAL] [TEETH]
+         id="tspan393">OFFENSE KEYWORDS: [ANIMAL] [TEETH]
 </tspan><tspan
          x="16.09375"
          y="96.676479"
-         id="tspan830">DEFENSE KEYWORDS: [ANIMAL]
+         id="tspan395">DEFENSE KEYWORDS: [ANIMAL]
 </tspan><tspan
          x="16.09375"
          y="111.67648"
-         id="tspan832">Dexterity: 0  Strength: 1
+         id="tspan397">Dexterity: 1  Strength: 1
 </tspan><tspan
          x="16.09375"
          y="126.67648"
-         id="tspan834">Agility: 0  Constitution: 2
+         id="tspan399">Agility: 0  Constitution: 1
 </tspan><tspan
          x="16.09375"
          y="141.67648"
-         id="tspan836">ABILITY NAME: Rat Swarm
+         id="tspan401">ABILITY NAME: Rat Swarm
 </tspan><tspan
          x="16.09375"
          y="156.67648"
-         id="tspan838">ABILITY DESCRIPTION:
+         id="tspan403">ABILITY DESCRIPTION:
 </tspan><tspan
          x="16.09375"
          y="171.67648"
-         id="tspan840">When this unit makes an attack or defense roll, add +1
+         id="tspan405">When this unit makes an attack or defense roll, add +1
 </tspan><tspan
          x="16.09375"
          y="186.67648"
-         id="tspan842">to the result for each other VERMIN unit on its field.
+         id="tspan407">to the result for each other VERMIN unit on its field.
 </tspan><tspan
          x="16.09375"
          y="201.67648"
-         id="tspan844">
+         id="tspan409">
 </tspan><tspan
          x="16.09375"
          y="216.67648"
-         id="tspan846">
+         id="tspan411">
 </tspan><tspan
          x="16.09375"
          y="231.67648"
-         id="tspan848">
+         id="tspan413">
 </tspan><tspan
          x="16.09375"
          y="246.67648"
-         id="tspan850">
+         id="tspan415">
 </tspan><tspan
          x="16.09375"
          y="261.67648"
-         id="tspan852">
+         id="tspan417">
 </tspan><tspan
          x="16.09375"
          y="276.67648"
-         id="tspan854">
+         id="tspan419">
 </tspan><tspan
          x="16.09375"
          y="291.67648"
-         id="tspan856">
+         id="tspan421">
 </tspan><tspan
          x="16.09375"
          y="306.67648"
-         id="tspan858">
+         id="tspan423">
 </tspan></text>
   </g>
 </svg>

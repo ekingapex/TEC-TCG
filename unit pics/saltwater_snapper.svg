@@ -54,82 +54,82 @@
        style="white-space:pre;shape-inside:url(#rect63);fill:#000000"><tspan
          x="16.09375"
          y="21.676479"
-         id="tspan1181">UNIT NAME: Saltwater Snapper
+         id="tspan260">UNIT NAME: Saltwater Snapper
 </tspan><tspan
          x="16.09375"
          y="36.676479"
-         id="tspan1183">UNUT TYPE: Defender
+         id="tspan262">UNUT TYPE: Defender
 </tspan><tspan
          x="16.09375"
          y="51.676479"
-         id="tspan1185">UNIT COST: 2
+         id="tspan264">UNIT COST: 3
 </tspan><tspan
          x="16.09375"
          y="66.676479"
-         id="tspan1187">UNIT KEYWORDS: [ANIMAL] [SIGNALTOWER ISLAND]
+         id="tspan266">UNIT KEYWORDS: [ANIMAL] [SIGNALTOWER ISLAND]
 </tspan><tspan
          x="16.09375"
          y="81.676479"
-         id="tspan1189">OFFENSE KEYWORDS: [ANIMAL] [BEAK]
+         id="tspan268">OFFENSE KEYWORDS: [ANIMAL] [BEAK]
 </tspan><tspan
          x="16.09375"
          y="96.676479"
-         id="tspan1191">DEFENSE KEYWORDS: [ANIMAL] [SHELL]
+         id="tspan270">DEFENSE KEYWORDS: [ANIMAL] [SHELL]
 </tspan><tspan
          x="16.09375"
          y="111.67648"
-         id="tspan1193">Dexterity: 0  Strength: 2
+         id="tspan272">Dexterity: 0  Strength: 2
 </tspan><tspan
          x="16.09375"
          y="126.67648"
-         id="tspan1195">Agility: 0  Constitution: 4
+         id="tspan274">Agility: 0  Constitution: 4
 </tspan><tspan
          x="16.09375"
          y="141.67648"
-         id="tspan1197">ABILITY NAME: Turtle Shell
+         id="tspan276">ABILITY NAME: Turtle Shell
 </tspan><tspan
          x="16.09375"
          y="156.67648"
-         id="tspan1199">ABILITY DESCRIPTION:
+         id="tspan278">ABILITY DESCRIPTION:
 </tspan><tspan
          x="16.09375"
          y="171.67648"
-         id="tspan1201">When this unit rolls a critical defense roll, damage during </tspan><tspan
+         id="tspan280">When this unit rolls a critical defense roll, damage during </tspan><tspan
          x="16.09375"
          y="186.67648"
-         id="tspan1203">damage calculation is reduced by 2, to a minimum of 0.
+         id="tspan282">damage calculation is reduced by 2, to a minimum of 0.
 </tspan><tspan
          x="16.09375"
          y="201.67648"
-         id="tspan1205">
+         id="tspan284">
 </tspan><tspan
          x="16.09375"
          y="216.67648"
-         id="tspan1207">
+         id="tspan286">
 </tspan><tspan
          x="16.09375"
          y="231.67648"
-         id="tspan1209">
+         id="tspan288">
 </tspan><tspan
          x="16.09375"
          y="246.67648"
-         id="tspan1211">
+         id="tspan290">
 </tspan><tspan
          x="16.09375"
          y="261.67648"
-         id="tspan1213">
+         id="tspan292">
 </tspan><tspan
          x="16.09375"
          y="276.67648"
-         id="tspan1215">
+         id="tspan294">
 </tspan><tspan
          x="16.09375"
          y="291.67648"
-         id="tspan1217">
+         id="tspan296">
 </tspan><tspan
          x="16.09375"
          y="306.67648"
-         id="tspan1219">
+         id="tspan298">
 </tspan></text>
   </g>
 </svg>

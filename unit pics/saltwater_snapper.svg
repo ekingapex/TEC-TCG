@@ -26,7 +26,7 @@
      showgrid="false"
      inkscape:zoom="1.4912879"
      inkscape:cx="-51.633223"
-     inkscape:cy="152.88798"
+     inkscape:cy="153.55854"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -54,82 +54,82 @@
        style="white-space:pre;shape-inside:url(#rect63);fill:#000000"><tspan
          x="16.09375"
          y="21.676479"
-         id="tspan260">UNIT NAME: Saltwater Snapper
+         id="tspan261">UNIT NAME: Saltwater Snapper
 </tspan><tspan
          x="16.09375"
          y="36.676479"
-         id="tspan262">UNUT TYPE: Defender
+         id="tspan263">UNUT TYPE: Defender
 </tspan><tspan
          x="16.09375"
          y="51.676479"
-         id="tspan264">UNIT COST: 3
+         id="tspan265">UNIT COST: 3
 </tspan><tspan
          x="16.09375"
          y="66.676479"
-         id="tspan266">UNIT KEYWORDS: [ANIMAL] [SIGNALTOWER ISLAND]
+         id="tspan267">UNIT KEYWORDS: [ANIMAL] [SIGNALTOWER ISLAND]
 </tspan><tspan
          x="16.09375"
          y="81.676479"
-         id="tspan268">OFFENSE KEYWORDS: [ANIMAL] [BEAK]
+         id="tspan269">OFFENSE KEYWORDS: [ANIMAL] [BEAK]
 </tspan><tspan
          x="16.09375"
          y="96.676479"
-         id="tspan270">DEFENSE KEYWORDS: [ANIMAL] [SHELL]
+         id="tspan271">DEFENSE KEYWORDS: [ANIMAL] [SHELL]
 </tspan><tspan
          x="16.09375"
          y="111.67648"
-         id="tspan272">Dexterity: 0  Strength: 2
+         id="tspan273">Dexterity: -1  Strength: 2
 </tspan><tspan
          x="16.09375"
          y="126.67648"
-         id="tspan274">Agility: 0  Constitution: 4
+         id="tspan275">Agility: -1  Constitution: 3
 </tspan><tspan
          x="16.09375"
          y="141.67648"
-         id="tspan276">ABILITY NAME: Turtle Shell
+         id="tspan277">ABILITY NAME: Turtle Shell
 </tspan><tspan
          x="16.09375"
          y="156.67648"
-         id="tspan278">ABILITY DESCRIPTION:
+         id="tspan279">ABILITY DESCRIPTION:
 </tspan><tspan
          x="16.09375"
          y="171.67648"
-         id="tspan280">When this unit rolls a critical defense roll, damage during </tspan><tspan
+         id="tspan281">When this unit rolls a critical defense roll, damage during </tspan><tspan
          x="16.09375"
          y="186.67648"
-         id="tspan282">damage calculation is reduced by 2, to a minimum of 0.
+         id="tspan283">damage calculation is reduced by 2, to a minimum of 0.
 </tspan><tspan
          x="16.09375"
          y="201.67648"
-         id="tspan284">
+         id="tspan285">
 </tspan><tspan
          x="16.09375"
          y="216.67648"
-         id="tspan286">
+         id="tspan287">
 </tspan><tspan
          x="16.09375"
          y="231.67648"
-         id="tspan288">
+         id="tspan289">
 </tspan><tspan
          x="16.09375"
          y="246.67648"
-         id="tspan290">
+         id="tspan291">
 </tspan><tspan
          x="16.09375"
          y="261.67648"
-         id="tspan292">
+         id="tspan293">
 </tspan><tspan
          x="16.09375"
          y="276.67648"
-         id="tspan294">
+         id="tspan295">
 </tspan><tspan
          x="16.09375"
          y="291.67648"
-         id="tspan296">
+         id="tspan297">
 </tspan><tspan
          x="16.09375"
          y="306.67648"
-         id="tspan298">
+         id="tspan299">
 </tspan></text>
   </g>
 </svg>

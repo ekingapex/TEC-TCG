@@ -54,83 +54,83 @@
        style="white-space:pre;shape-inside:url(#rect63);display:inline;fill:#000000"><tspan
          x="16.09375"
          y="21.676479"
-         id="tspan1061">UNIT NAME: Mountain Lion
+         id="tspan1028">UNIT NAME: Mountain Lion
 </tspan><tspan
          x="16.09375"
          y="36.676479"
-         id="tspan1063">UNUT TYPE: Defender
+         id="tspan1030">UNUT TYPE: Defender
 </tspan><tspan
          x="16.09375"
          y="51.676479"
-         id="tspan1065">UNIT COST: 6
+         id="tspan1032">UNIT COST: 7
 </tspan><tspan
          x="16.09375"
          y="66.676479"
-         id="tspan1067">UNIT KEYWORDS: [ANIMAL] [ROCK VALLEY]
+         id="tspan1034">UNIT KEYWORDS: [ANIMAL] [ROCK VALLEY]
 </tspan><tspan
          x="16.09375"
          y="81.676479"
-         id="tspan1069">OFFENSE KEYWORDS: [ANIMAL] [TEETH] [CLAWS]
+         id="tspan1036">OFFENSE KEYWORDS: [ANIMAL] [TEETH] [CLAWS]
 </tspan><tspan
          x="16.09375"
          y="96.676479"
-         id="tspan1071">DEFENSE KEYWORDS: [ANIMAL] [SWIFT]
+         id="tspan1038">DEFENSE KEYWORDS: [ANIMAL] [SWIFT]
 </tspan><tspan
          x="16.09375"
          y="111.67648"
-         id="tspan1073">Dexterity: 4  Strength: 4
+         id="tspan1040">Dexterity: 4  Strength: 4
 </tspan><tspan
          x="16.09375"
          y="126.67648"
-         id="tspan1075">Agility: 1  Constitution: 4
+         id="tspan1042">Agility: 1  Constitution: 3
 </tspan><tspan
          x="16.09375"
          y="141.67648"
-         id="tspan1077">ABILITY NAME: Thick Hide
+         id="tspan1044">ABILITY NAME: Thick Hide
 </tspan><tspan
          x="16.09375"
          y="156.67648"
-         id="tspan1079">ABILITY DESCRIPTION:
+         id="tspan1046">ABILITY DESCRIPTION:
 </tspan><tspan
          x="16.09375"
          y="171.67648"
-         id="tspan1081">During damage calculation, this unit cannot lose more
+         id="tspan1048">During damage calculation, this unit cannot lose more
 </tspan><tspan
          x="16.09375"
          y="186.67648"
-         id="tspan1083">than 1 hit point from a single attack.
+         id="tspan1050">than 1 hit point from a single attack.
 </tspan><tspan
          x="16.09375"
          y="201.67648"
-         id="tspan1085">
+         id="tspan1052">
 </tspan><tspan
          x="16.09375"
          y="216.67648"
-         id="tspan1087">
+         id="tspan1054">
 </tspan><tspan
          x="16.09375"
          y="231.67648"
-         id="tspan1089">
+         id="tspan1056">
 </tspan><tspan
          x="16.09375"
          y="246.67648"
-         id="tspan1091">
+         id="tspan1058">
 </tspan><tspan
          x="16.09375"
          y="261.67648"
-         id="tspan1093">
+         id="tspan1060">
 </tspan><tspan
          x="16.09375"
          y="276.67648"
-         id="tspan1095">
+         id="tspan1062">
 </tspan><tspan
          x="16.09375"
          y="291.67648"
-         id="tspan1097">
+         id="tspan1064">
 </tspan><tspan
          x="16.09375"
          y="306.67648"
-         id="tspan1099">
+         id="tspan1066">
 </tspan></text>
   </g>
 </svg>

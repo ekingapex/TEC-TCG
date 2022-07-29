@@ -54,83 +54,86 @@
        style="white-space:pre;shape-inside:url(#rect63);display:inline;fill:#000000"><tspan
          x="16.09375"
          y="21.676479"
-         id="tspan385">UNIT NAME: Sewer Rat
+         id="tspan776">UNIT NAME: Sewer Rat
 </tspan><tspan
          x="16.09375"
          y="36.676479"
-         id="tspan387">UNUT TYPE: Defender
+         id="tspan778">UNUT TYPE: Defender
 </tspan><tspan
          x="16.09375"
          y="51.676479"
-         id="tspan389">UNIT COST: 2
+         id="tspan780">UNIT COST: 2
 </tspan><tspan
          x="16.09375"
          y="66.676479"
-         id="tspan391">UNIT KEYWORDS: [ANIMAL] [SEWERS] [VERMIN]
+         id="tspan782">UNIT KEYWORDS: [ANIMAL] [SEWERS] [VERMIN]
 </tspan><tspan
          x="16.09375"
          y="81.676479"
-         id="tspan393">OFFENSE KEYWORDS: [ANIMAL] [TEETH]
+         id="tspan784">OFFENSE KEYWORDS: [ANIMAL] [TEETH]
 </tspan><tspan
          x="16.09375"
          y="96.676479"
-         id="tspan395">DEFENSE KEYWORDS: [ANIMAL]
+         id="tspan786">DEFENSE KEYWORDS: [ANIMAL]
 </tspan><tspan
          x="16.09375"
          y="111.67648"
-         id="tspan397">Dexterity: 1  Strength: 1
+         id="tspan788">Dexterity: 1  Strength: 1
 </tspan><tspan
          x="16.09375"
          y="126.67648"
-         id="tspan399">Agility: 0  Constitution: 1
+         id="tspan790">Agility: 0  Constitution: 1
 </tspan><tspan
          x="16.09375"
          y="141.67648"
-         id="tspan401">ABILITY NAME: Rat Swarm
+         id="tspan792">ABILITY NAME: Rat Swarm
 </tspan><tspan
          x="16.09375"
          y="156.67648"
-         id="tspan403">ABILITY DESCRIPTION:
+         id="tspan794">ABILITY DESCRIPTION:
 </tspan><tspan
          x="16.09375"
          y="171.67648"
-         id="tspan405">When this unit makes an attack or defense roll, add +1
+         id="tspan796">When this unit makes an attack roll, add +1
 </tspan><tspan
          x="16.09375"
          y="186.67648"
-         id="tspan407">to the result for each other VERMIN unit on its field.
-</tspan><tspan
+         id="tspan798">to the result for each other friendly VERMIN unit on its </tspan><tspan
          x="16.09375"
          y="201.67648"
-         id="tspan409">
+         id="tspan800">field.
 </tspan><tspan
          x="16.09375"
          y="216.67648"
-         id="tspan411">
+         id="tspan802">
 </tspan><tspan
          x="16.09375"
          y="231.67648"
-         id="tspan413">
+         id="tspan804">
 </tspan><tspan
          x="16.09375"
          y="246.67648"
-         id="tspan415">
+         id="tspan806">
 </tspan><tspan
          x="16.09375"
          y="261.67648"
-         id="tspan417">
+         id="tspan808">
 </tspan><tspan
          x="16.09375"
          y="276.67648"
-         id="tspan419">
+         id="tspan810">
 </tspan><tspan
          x="16.09375"
          y="291.67648"
-         id="tspan421">
+         id="tspan812">
 </tspan><tspan
          x="16.09375"
          y="306.67648"
-         id="tspan423">
+         id="tspan814">
+</tspan><tspan
+         x="16.09375"
+         y="321.67648"
+         id="tspan816">
 </tspan></text>
   </g>
 </svg>

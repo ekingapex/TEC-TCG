@@ -54,83 +54,83 @@
        style="white-space:pre;shape-inside:url(#rect63);display:inline;fill:#000000"><tspan
          x="16.09375"
          y="21.676479"
-         id="tspan945">UNIT NAME: Sewer Snake
+         id="tspan903">UNIT NAME: Sewer Snake
 </tspan><tspan
          x="16.09375"
          y="36.676479"
-         id="tspan947">UNUT TYPE: Defender
+         id="tspan905">UNUT TYPE: Defender
 </tspan><tspan
          x="16.09375"
          y="51.676479"
-         id="tspan949">UNIT COST: 3
+         id="tspan907">UNIT COST: 4
 </tspan><tspan
          x="16.09375"
          y="66.676479"
-         id="tspan951">UNIT KEYWORDS: [ANIMAL] [SEWERS] [SNAKE]
+         id="tspan909">UNIT KEYWORDS: [ANIMAL] [SEWERS] [SNAKE]
 </tspan><tspan
          x="16.09375"
          y="81.676479"
-         id="tspan953">OFFENSE KEYWORDS: [ANIMAL] [FANGS]
+         id="tspan911">OFFENSE KEYWORDS: [ANIMAL] [FANGS]
 </tspan><tspan
          x="16.09375"
          y="96.676479"
-         id="tspan955">DEFENSE KEYWORDS: [ANIMAL]
+         id="tspan913">DEFENSE KEYWORDS: [ANIMAL]
 </tspan><tspan
          x="16.09375"
          y="111.67648"
-         id="tspan957">Dexterity: 2  Strength: 2
+         id="tspan915">Dexterity: 2  Strength: 2
 </tspan><tspan
          x="16.09375"
          y="126.67648"
-         id="tspan959">Agility: 0  Constitution: 2
+         id="tspan917">Agility: 1  Constitution: 2
 </tspan><tspan
          x="16.09375"
          y="141.67648"
-         id="tspan961">ABILITY NAME: Weak Venom
+         id="tspan919">ABILITY NAME: Weak Venom
 </tspan><tspan
          x="16.09375"
          y="156.67648"
-         id="tspan963">ABILITY DESCRIPTION:
+         id="tspan921">ABILITY DESCRIPTION:
 </tspan><tspan
          x="16.09375"
          y="171.67648"
-         id="tspan965">When this unit deals damage, the target loses 1
+         id="tspan923">When this unit deals damage, the target loses 1
 </tspan><tspan
          x="16.09375"
          y="186.67648"
-         id="tspan967">additional hit point after all damage calculations.
+         id="tspan925">additional hit point after all damage calculations.
 </tspan><tspan
          x="16.09375"
          y="201.67648"
-         id="tspan969">
+         id="tspan927">
 </tspan><tspan
          x="16.09375"
          y="216.67648"
-         id="tspan971">
+         id="tspan929">
 </tspan><tspan
          x="16.09375"
          y="231.67648"
-         id="tspan973">
+         id="tspan931">
 </tspan><tspan
          x="16.09375"
          y="246.67648"
-         id="tspan975">
+         id="tspan933">
 </tspan><tspan
          x="16.09375"
          y="261.67648"
-         id="tspan977">
+         id="tspan935">
 </tspan><tspan
          x="16.09375"
          y="276.67648"
-         id="tspan979">
+         id="tspan937">
 </tspan><tspan
          x="16.09375"
          y="291.67648"
-         id="tspan981">
+         id="tspan939">
 </tspan><tspan
          x="16.09375"
          y="306.67648"
-         id="tspan983">
+         id="tspan941">
 </tspan></text>
   </g>
 </svg>

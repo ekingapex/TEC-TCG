@@ -54,83 +54,83 @@
        style="white-space:pre;shape-inside:url(#rect63);display:inline;fill:#000000"><tspan
          x="16.09375"
          y="21.676479"
-         id="tspan1686">UNIT NAME: Traevant Bandit
+         id="tspan260">UNIT NAME: Traevant Bandit
 </tspan><tspan
          x="16.09375"
          y="36.676479"
-         id="tspan1688">UNUT TYPE: Defender
+         id="tspan262">UNUT TYPE: Defender
 </tspan><tspan
          x="16.09375"
          y="51.676479"
-         id="tspan1690">UNIT COST: 4
+         id="tspan264">UNIT COST: 5
 </tspan><tspan
          x="16.09375"
          y="66.676479"
-         id="tspan1692">UNIT KEYWORDS: [HUMAN] [BANDIT] [FOREST]
+         id="tspan266">UNIT KEYWORDS: [HUMAN] [BANDIT] [FOREST]
 </tspan><tspan
          x="16.09375"
          y="81.676479"
-         id="tspan1694">OFFENSE KEYWORDS: [HUMAN] [SPEARS] [ARCHERY]
+         id="tspan268">OFFENSE KEYWORDS: [HUMAN] [SPEARS] [ARCHERY]
 </tspan><tspan
          x="16.09375"
          y="96.676479"
-         id="tspan1696">DEFENSE KEYWORDS: [HUMAN] [SPEARS] [DODGE]
+         id="tspan270">DEFENSE KEYWORDS: [HUMAN] [SPEARS] [DODGE]
 </tspan><tspan
          x="16.09375"
          y="111.67648"
-         id="tspan1698">Dexterity: 2  Strength: 2
+         id="tspan272">Dexterity: 2  Strength: 2
 </tspan><tspan
          x="16.09375"
          y="126.67648"
-         id="tspan1700">Agility: 3  Constitution: 3
+         id="tspan274">Agility: 2  Constitution: 3
 </tspan><tspan
          x="16.09375"
          y="141.67648"
-         id="tspan1702">ABILITY NAME: Forest Ambush
+         id="tspan276">ABILITY NAME: Forest Ambush
 </tspan><tspan
          x="16.09375"
          y="156.67648"
-         id="tspan1704">ABILITY DESCRIPTION:
+         id="tspan278">ABILITY DESCRIPTION:
 </tspan><tspan
          x="16.09375"
          y="171.67648"
-         id="tspan1706">When this unit makes and attack roll, add +2 to the
+         id="tspan280">When this unit makes an attack roll, add +2 to the
 </tspan><tspan
          x="16.09375"
          y="186.67648"
-         id="tspan1708">result for each other friendly FOREST or BANDIT unit.
+         id="tspan282">result for each other friendly FOREST or BANDIT unit.
 </tspan><tspan
          x="16.09375"
          y="201.67648"
-         id="tspan1710">
+         id="tspan284">
 </tspan><tspan
          x="16.09375"
          y="216.67648"
-         id="tspan1712">
+         id="tspan286">
 </tspan><tspan
          x="16.09375"
          y="231.67648"
-         id="tspan1714">
+         id="tspan288">
 </tspan><tspan
          x="16.09375"
          y="246.67648"
-         id="tspan1716">
+         id="tspan290">
 </tspan><tspan
          x="16.09375"
          y="261.67648"
-         id="tspan1718">
+         id="tspan292">
 </tspan><tspan
          x="16.09375"
          y="276.67648"
-         id="tspan1720">
+         id="tspan294">
 </tspan><tspan
          x="16.09375"
          y="291.67648"
-         id="tspan1722">
+         id="tspan296">
 </tspan><tspan
          x="16.09375"
          y="306.67648"
-         id="tspan1724">
+         id="tspan298">
 </tspan></text>
   </g>
 </svg>

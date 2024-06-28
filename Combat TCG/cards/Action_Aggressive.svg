@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="92.573997mm"
+   height="76.707001mm"
+   viewBox="0 0 92.573997 76.707001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="Action_Aggressive.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4912879"
+     inkscape:cx="-51.633223"
+     inkscape:cy="152.88798"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="176.35763"
+       y="12.740665"
+       width="54.315468"
+       height="43.586487"
+       id="rect1566" />
+    <rect
+       x="16.093472"
+       y="10.728981"
+       width="353.5567"
+       height="407.32202"
+       id="rect63" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-4.2984456,-3.3229793)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,1.5967742,1.4193548)"
+       id="text61"
+       style="white-space:pre;shape-inside:url(#rect63);display:inline;fill:#000000"><tspan
+         x="16.09375"
+         y="21.676479"
+         id="tspan1932">Action Name: Aggressive
+</tspan><tspan
+         x="16.09375"
+         y="36.676479"
+         id="tspan1934">Effect:
+</tspan><tspan
+         x="16.09375"
+         y="51.676479"
+         id="tspan1936">Treat all defense skills as 1 rank lower until the start of </tspan><tspan
+         x="16.09375"
+         y="66.676479"
+         id="tspan1938">your next turn; add +1 to all attack bonuses. Cannot be </tspan><tspan
+         x="16.09375"
+         y="81.676479"
+         id="tspan1940">played if &quot;Berserk&quot;, &quot;Wary&quot;, or &quot;Defensive&quot; have been </tspan><tspan
+         x="16.09375"
+         y="96.676479"
+         id="tspan1942">played this turn.
+</tspan><tspan
+         x="16.09375"
+         y="111.67648"
+         id="tspan1944">
+</tspan><tspan
+         x="16.09375"
+         y="126.67648"
+         id="tspan1946">
+</tspan><tspan
+         x="16.09375"
+         y="141.67648"
+         id="tspan1948">
+</tspan><tspan
+         x="16.09375"
+         y="156.67648"
+         id="tspan1950">
+</tspan><tspan
+         x="16.09375"
+         y="171.67648"
+         id="tspan1952">
+</tspan><tspan
+         x="16.09375"
+         y="186.67648"
+         id="tspan1954">
+</tspan><tspan
+         x="16.09375"
+         y="201.67648"
+         id="tspan1956">
+</tspan><tspan
+         x="16.09375"
+         y="216.67648"
+         id="tspan1958">
+</tspan><tspan
+         x="16.09375"
+         y="231.67648"
+         id="tspan1960">
+</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,4.2984456,3.3229793)"
+       id="text1564"
+       style="white-space:pre;shape-inside:url(#rect1566);display:inline;fill:#000000" />
+  </g>
+</svg>
